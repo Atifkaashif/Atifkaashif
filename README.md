@@ -83,8 +83,8 @@ Modern responsive task management application with interactive UI and JavaScript
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src=https://github-readme-stats.vercel.app/api?username=Atifkaashif&show_icons=true&theme=tokyonight />
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Atifkaashif&layout=compact&theme=tokyonight />
 </p>
 
 ---
@@ -111,7 +111,7 @@ Modern responsive task management application with interactive UI and JavaScript
 ## 🤝 Let's Connect
 
 <p>
-<a href="https://github.com/YOUR_USERNAME">
+<a href=https://github.com/Atifkaashif>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 

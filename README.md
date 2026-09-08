@@ -1,311 +1,95 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                    ATIF KAASHIF — GITHUB                      -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,14,20&text=ATIF%20KAASHIF&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Full-Stack%20Developer%20%7C%20Flutter%20Developer&descAlignY=58&descSize=18"/>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/Atifkaashif">
-<img src="https://komarev.com/ghpvc/?username=Atifkaashif&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Atifkaashif?tab=followers">
-<img src="https://img.shields.io/github/followers/Atifkaashif?label=FOLLOWERS&style=for-the-badge&color=236ad3"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+Intelligent+Applications+%F0%9F%A4%96;Creating+Modern+Web+Experiences+%F0%9F%92%BB;Developing+Cross-Platform+Apps+%F0%9F%93%B1;Exploring+Computer+Vision+%F0%9F%A7%A0;Turning+Ideas+Into+Real+Projects+%F0%9F%9A%80"/>
-
-</div>
-
-<br>
-
-## 👨‍💻 About Me
-
-```text
-Atif Kashif
-├── 🤖 AI / Machine Learning
-├── 💻 Full-Stack Development
-├── 📱 Flutter Development
-├── 🧠 Computer Vision
-└── 🚀 Building Real-World Projects
-```
-
-I'm a developer focused on building **AI-powered applications, modern web
-experiences, and cross-platform mobile applications**.
-
-I enjoy taking an idea from concept → development → working application.
-
-Currently exploring deeper into **Artificial Intelligence, Computer Vision,
-Full-Stack Development, and Flutter**.
-
----
-
-## ⚡ What I Build
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🤖 AI / ML
-
-Machine Learning
-Deep Learning
-Computer Vision
-TensorFlow / Keras
-AI Applications
-
-</td>
-
-<td width="33%" align="center">
-
-### 💻 Web
-
-HTML / CSS / JavaScript
-React
-Node.js
-PHP
-MongoDB / MySQL
-
-</td>
-
-<td width="33%" align="center">
-
-### 📱 Mobile
-
-Flutter
-Dart
-Firebase
-Responsive UI
-Cross-Platform Apps
-
-</td>
-</tr>
-</table>
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,dart,html,css,php"/>
-
-</p>
-
-### Web Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,bootstrap,tailwind"/>
-
-</p>
-
-### AI / Machine Learning
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv"/>
-
-</p>
-
-### Mobile & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,firebase,git,github,vscode,postman"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🧠 Brain Tumor AI
-
-AI-powered brain MRI analysis project focused on **tumor detection and segmentation**.
-
-**Tech**
-
-`Python` `TensorFlow` `Keras` `OpenCV`
-
-<a href="https://github.com/Atifkaashif">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-0D1117?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-### 💳 BluePay
-
-Modern digital wallet application with authentication, balance management, transactions and QR payment concepts.
-
-**Tech**
-
-`HTML` `CSS` `JavaScript` `PHP` `MySQL` `Flutter`
-
-<a href="https://github.com/Atifkaashif">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-0D1117?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🌱 Plantify
-
-Modern full-stack application built using React and Node.js.
-
-**Tech**
-
-`React` `Node.js` `MongoDB`
-
-<a href="https://github.com/Atifkaashif">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-0D1117?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-### 📝 QuizMaster
-
-Interactive Python quiz platform with multiple difficulty levels and dynamic questions.
-
-**Tech**
-
-`HTML` `CSS` `JavaScript`
-
-<a href="https://github.com/Atifkaashif">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-0D1117?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Atifkaashif&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atifkaashif&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Atifkaashif&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Atifkaashif&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# 🎯 Currently Learning
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  🧠 Advanced AI / Machine Learning                  │
-│  👁️ Computer Vision                                 │
-│  ⚛️ Advanced React & Node.js                        │
-│  📱 Flutter Development                              │
-│  🤖 Generative AI                                   │
-│  🚀 AI Model Deployment                              │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
----
-
-# 💡 My Development Philosophy
-
-<div align="center">
-
-### "Build. Learn. Improve. Repeat."
-
-<br>
-
-**Idea → Design → Code → Test → Deploy → Improve**
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/Atifkaashif">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,14,20&text=Atif%20Kaashif&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Flutter%20Developer&descAlignY=58&descSize=16"/>
 
 <a href="https://www.linkedin.com/">
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Atifkaashif">
+  <img src="https://img.shields.io/github/followers/Atifkaashif?label=Followers&style=flat-square&color=236ad3"/>
 </a>
 
 </div>
 
 <br>
 
+## About
+
+I'm a developer building AI-powered applications, full-stack web platforms, and cross-platform mobile apps. I'm currently focused on deepening my expertise in machine learning, computer vision, and generative AI, with an emphasis on shipping working products rather than just prototypes.
+
+- 🔭 Currently building projects in applied computer vision and full-stack development
+- 🌱 Learning advanced React/Node.js patterns and AI model deployment
+- 💬 Happy to discuss AI/ML, Flutter, or full-stack architecture
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/) or email
+
+---
+
+## Tech Stack
+
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=python,javascript,dart,html,css,php"/>
+
+**Web Development**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,bootstrap,tailwind"/>
+
+**AI / Machine Learning**
+<br>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv"/>
+
+**Mobile & Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=flutter,firebase,git,github,vscode,postman"/>
+
+---
+
+## Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| **[Brain Tumor AI](https://github.com/Atifkaashif)** | AI-powered brain MRI analysis for tumor detection and segmentation. | Python, TensorFlow, Keras, OpenCV |
+| **[BluePay](https://github.com/Atifkaashif)** | Digital wallet application with authentication, balance management, transactions, and QR payments. | HTML, CSS, JavaScript, PHP, MySQL, Flutter |
+| **[Plantify](https://github.com/Atifkaashif)** | Full-stack plant care/e-commerce application. | React, Node.js, MongoDB |
+| **[QuizMaster](https://github.com/Atifkaashif)** | Interactive quiz platform with multiple difficulty levels and dynamic question generation. | HTML, CSS, JavaScript |
+
+---
+
+## GitHub Analytics
+
 <div align="center">
 
-### 🚀 Open to learning, collaboration and building interesting projects.
-
-</div>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Atifkaashif&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atifkaashif&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"/>
 
 <br>
 
+<img width="65%" src="https://streak-stats.demolab.com?user=Atifkaashif&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Atifkaashif&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## Currently Exploring
+
+- Advanced machine learning and computer vision
+- Generative AI and model deployment pipelines
+- Scalable full-stack architecture with React and Node.js
+- Cross-platform development with Flutter
+
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,14,20&section=footer"/>
+**Open to collaboration, internships, and interesting projects.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,14,20&section=footer"/>
 
 </div>

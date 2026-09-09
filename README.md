@@ -53,7 +53,7 @@ I'm a developer building AI-powered applications, full-stack web platforms, and 
 |---|---|---|
 | **[Brain Tumor AI](https://github.com/Atifkaashif/Brain-Tumor-AI-MRI-Analysis-System)** | AI-powered brain MRI analysis for tumor detection and segmentation. | Python, TensorFlow, Keras, OpenCV |
 | **[Pneumonia Classification using CNN model](https://github.com/Atifkaashif/Pneumonia-Classification-using-CNN-model-)** | Digital wallet application with authentication, balance management, transactions, and QR payments. | TensorFlow, Python
-| **[Simple University chatbot](https://github.com/Atifkaashif/University-Basic-Terminal-Base-Chatbot-Python-)** | Python ,AI
+| **[Simple University chatbot](https://github.com/Atifkaashif/University-Basic-Terminal-Base-Chatbot-Python-)** Simple University chatbot for users queries. | Python ,AI
 | **[ATM Machine webapp](https://github.com/Atifkaashif/ATM-Machine-Web-html-css-js-)** | Atm machine like simple webapp| HTML, CSS, JavaScript |
 
 ---
